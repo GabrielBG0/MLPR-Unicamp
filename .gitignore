@@ -1,3 +1,4 @@
 *.csv
 T4A/COCO-multiclass/*
 T4A/COCO-object-detection/*
+*.pth
